@@ -1,0 +1,9 @@
+problem : havanin temperaturunun 15 dereceden cox ve ya az olmasini tapmaq
+
+girish m ededi
+        n beraberdirmi 15-e?
+          ekrana yazdir "havanin temperaturu 15 derecedir"
+        n > 15 olarsa:
+          ekrana yazdir " hava istidir "
+        n < 15 olarsa:
+          ekrana yazdir " hava soyuqdur "
