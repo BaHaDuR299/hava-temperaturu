@@ -1,0 +1,5 @@
+problem : ededin 7 ve 3e bolunub bolunmediyini tapma
+
+girish n ededi 
+      n 7 ve 3 bolunurse   
+        ekrana yazilsin " 3 ve 7 ye bolunur"    
